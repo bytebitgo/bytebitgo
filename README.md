@@ -1,12 +1,4 @@
-<!--
- * @Author: bytebit
- * @Date: 2022-02-23 12:49:37
- * @LastEditTime: 2022-02-23 12:59:13
- * @LastEditors: bytebit
- * @Description: 
- * @FilePath: /node-adsl/Users/betty/Documents/Dev/bytebitgo/README.md
- * 引用代码请说明出处
--->
+
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.instagram.com/abhishknads/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -33,7 +25,7 @@ Hi, i'm [Bytebit](https://), a passionate self-taught full stack web developer a
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/bytebitgo/bytebitgo/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:bytebit@foxmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -72,7 +64,7 @@ CSS          15 mins         ▒░░░░░░░░░░░░░░░░
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My Github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bytebitgo&show_icons=true&theme=gotham" alt="bytebitgo" />
 
