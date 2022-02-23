@@ -1,7 +1,6 @@
 
 ### hey there 
 
-
 Hi, i'm [Bytebit](https://github.com/bytebitgo), a passionate self-taught full stack web developer and a freelance software engineer from China.  i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
@@ -29,7 +28,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```text
 CDN         13 years  ███████████████████▓░░░░░ 90.81 % 
-Flexisdwn   1 years   ██▒░░░░░░░░░░░░░░░░░░░░░░ 1 % 
+FlexiSDWAN   1 years  ██▒░░░░░░░░░░░░░░░░░░░░░░ 1 % 
 PVE         4 years   █▓░░░░░░░░░░░░░░░░░░░░░░░ 3 % 
 P2P         1 years   █░░░░░░░░░░░░░░░░░░░░░░░░ 1 % 
 ```
