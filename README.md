@@ -43,6 +43,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+🛠 ** focous on Technical point **
+```text
+CDN   13 years        ███████████████████▓░░░░░   78.81 % 
+flexisdwn   1 years   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+PVE   4 years         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+P2P   1 years         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+```
+
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
