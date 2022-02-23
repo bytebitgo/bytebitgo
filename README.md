@@ -75,7 +75,7 @@ HTML          1 hr 0 mins         █░░░░░░░░░░░░░░�
 
 📈 My Github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bytebitgo&show_icons=true&theme=gotham" alt="bytebitgo" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bytebitgo&show_icons=true&theme=highcontrast" alt="bytebitgo" />
 
 
 
